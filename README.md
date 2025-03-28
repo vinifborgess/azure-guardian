@@ -28,7 +28,7 @@ It uses Azure's NLP, Speech, and Cosmos DB services to detect and block toxic me
 #### 1. Clone the Repository
 
 ```powershell
-git clone <your-repo-url>
+git clone <https://github.com/vinifborgess/azure-guardian>
 cd azure-guardian
 ```
 
